@@ -16,4 +16,4 @@ Parallels Access Edition. access Windows and Mac apps remotely from any mobile d
 
 
 TAGS
-parallels-access, mobile-remote-desktop, parallels-remote-desktop, parallels-subscription                            
+parallels-access, mobile-remote-desktop, parallels-remote-desktop, parallels-subscription                             
